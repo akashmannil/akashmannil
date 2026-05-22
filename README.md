@@ -60,8 +60,8 @@ I build production-ready web applications across frontend, backend, and database
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashmannil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=334155" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmannil&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2&text_color=334155" alt="Top languages" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashmannil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=334155&cache_seconds=1800)](https://github.com/akashmannil?tab=repositories)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmannil&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2&text_color=334155&cache_seconds=1800)](https://github.com/akashmannil?tab=repositories)
 
 <img height="170" src="https://streak-stats.demolab.com/?user=akashmannil&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak" />
 
